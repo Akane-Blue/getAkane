@@ -1,3 +1,8 @@
+require:
+
+* [Sybaris](http://motimoti3d.jp/blog-entry-13.html)
+* [AddModsSlider](http://motimoti3d.jp/blog-entry-14.html)
+
 category | mod | url |
 ---|---|---|
 顔 | プリティフェイス・島風 | [link](http://motimoti3d.jp/blog-entry-46.html) |
