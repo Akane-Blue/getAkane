@@ -1,3 +1,5 @@
+## 青髪赤目ちゃん
+
 ### 必須
 
 * [Sybaris](http://motimoti3d.jp/blog-entry-13.html)
@@ -15,6 +17,18 @@ category | mod | url |
 
 * [タブレットPC](http://ux.getuploader.com/cm3d2_okm/download/37/%E3%82%BF%E3%83%96%E3%83%AC%E3%83%83%E3%83%88PC.zip)
 
-## Preset
+### Preset
 
 * https://drive.google.com/open?id=0ByoQOmqDxjD7UVVVV3A2a2xxWWM
+
+## おきつねさま
+
+### 必須
+
+青髪赤目ちゃんの顔、目、目ハイライトに加えて以下
+
+* 公式ショップの [狐セット](https://cm3d2-shop.s-court.me/item.php?iid=188) (0円)
+
+### Preset
+
+- https://drive.google.com/open?id=0ByoQOmqDxjD7eXU3bWptTDRLYzQ
