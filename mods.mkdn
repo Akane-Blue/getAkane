@@ -4,7 +4,8 @@
 
 ![](https://mstdn.maud.io/system/media_attachments/files/000/188/282/original/d894129e8b5bb7a2.png)
 
-## 藍川茜4
+## 藍川茜
+
 ### 必須
 
 * [Sybaris](http://motimoti3d.jp/blog-entry-13.html)
@@ -22,11 +23,7 @@ category | mod | url |
 
 * [タブレットPC](http://ux.getuploader.com/cm3d2_okm/download/37/%E3%82%BF%E3%83%96%E3%83%AC%E3%83%83%E3%83%88PC.zip)
 
-### Preset
-
-* https://drive.google.com/open?id=0ByoQOmqDxjD7UVVVV3A2a2xxWWM
-
-## おきつねさま
+## 紅羽 (おきつねさま)
 
 ### 必須
 
@@ -34,6 +31,6 @@ category | mod | url |
 
 * 公式ショップの [狐セット](https://cm3d2-shop.s-court.me/item.php?iid=188) (0円)
 
-### Preset
+## プリセットのダウンロード
 
-- https://drive.google.com/open?id=0ByoQOmqDxjD7eXU3bWptTDRLYzQ
+* [cm3d2 - AkaneCloud](https://cloud.akane.blue/s/geeiidfzrJcmzGb)
