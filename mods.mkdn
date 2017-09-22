@@ -33,4 +33,4 @@ category | mod | url |
 
 ## プリセットのダウンロード
 
-* [cm3d2 - AkaneCloud](https://cloud.akane.blue/s/geeiidfzrJcmzGb)
+* [cm3d2/presets - AkaneCloud](https://cloud.akane.blue/s/geeiidfzrJcmzGb?path=%2Fpresets)
