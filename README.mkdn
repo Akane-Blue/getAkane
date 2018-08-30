@@ -6,7 +6,7 @@
 
 ## 藍川茜
 
-### 必須
+### CM3D2
 
 * [Sybaris](http://motimoti3d.jp/blog-entry-13.html)
 * [AddModsSlider](http://motimoti3d.jp/blog-entry-14.html)
@@ -19,18 +19,31 @@ category | mod | url |
 前髪 | M字バング | [link](http://ux.getuploader.com/cm3d2/download/19/cm3d2_19.zip) |
 服装 | 久奈浜学院制服/w1 | [link (deleted)]() |
 
-### 必須ではない
+### COM3D2
 
-* [タブレットPC](http://ux.getuploader.com/cm3d2_okm/download/37/%E3%82%BF%E3%83%96%E3%83%AC%E3%83%83%E3%83%88PC.zip)
+> http://seesaawiki.jp/com3d2_kaizou_info/d/%A5%D7%A5%E9%A5%B0%A5%A4%A5%F3 とかを見て集めて
+
+* Sybaris2
+* ModsSlider
+
+category | parts | memo/url |
+---|---|---|
+顔 | プリティフェイス・ジト目 | 標準搭載ﾔｯﾀｰ |
+目 | この美 | [link](http://motimoti3d.jp/blog-entry-63.html) |
+目ハイライト | デフォルト | まあなんでもよいです |
+前髪 | M字バング | [link](http://ux.getuploader.com/cm3d2/download/19/cm3d2_19.zip) |
+後髪 | ウルフラフエッジ | 長さ80 |
+帽子 | 猫耳帽子 | 1.02倍とかに拡大するとよい |
+服装 | 久奈浜学院制服/w1 | [link (deleted)]() |
 
 ## 紅羽 (おきつねさま)
 
 ### 必須
 
-青髪赤目ちゃんの顔、目、目ハイライトに加えて以下
+茜ちゃんに加えて以下
 
 * 公式ショップの [狐セット](https://cm3d2-shop.s-court.me/item.php?iid=188) (0円)
 
 ## プリセットのダウンロード
 
-* [cm3d2/presets - AkaneCloud](https://cloud.akane.blue/nextcloud/s/PDPhxnmcj5DG5CI?path=%2Fpresets)
+* [maid/presets - AkaneCloud](https://cloud.akane.blue/nextcloud/s/PDPhxnmcj5DG5CI?path=%2Fpresets)
