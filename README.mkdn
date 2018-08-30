@@ -21,10 +21,13 @@ category | mod | url |
 
 ### COM3D2
 
-> http://seesaawiki.jp/com3d2_kaizou_info/d/%A5%D7%A5%E9%A5%B0%A5%A4%A5%F3 とかを見て集めて
+![](https://mstdn.maud.io/system/media_attachments/files/001/963/172/original/b4077375165a7f09.jpeg)
 
-* Sybaris2
-* ModsSlider
+ちょっぴり変更
+
+* 必須Mod: http://seesaawiki.jp/com3d2_kaizou_info/d/%A5%D7%A5%E9%A5%B0%A5%A4%A5%F3 とかを見て集めて
+    * Sybaris2
+    * ModsSlider
 
 category | parts | memo/url |
 ---|---|---|
