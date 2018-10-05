@@ -17,7 +17,7 @@ category | mod | url |
 目 | この美 | [link](http://motimoti3d.jp/blog-entry-63.html) |
 目ハイライト | トトリハイライト | [link (require:pass)](http://ux.getuploader.com/n777_mod/download/171/%E3%83%88%E3%83%88%E3%82%A5%E3%83%BC%E3%83%AA%E3%82%A2%E3%83%BB%E3%83%98%E3%83%AB%E3%83%A2%E3%83%AB%E3%83%88.rar) |
 前髪 | M字バング | [link](http://ux.getuploader.com/cm3d2/download/19/cm3d2_19.zip) |
-服装 | 久奈浜学院制服/w1 | [link (deleted)]() |
+服装 | 久奈浜学院制服/w1 | `aokana_001.zip` |
 
 ### COM3D2
 
@@ -37,7 +37,7 @@ category | parts | memo/url |
 前髪 | M字バング | [link](http://ux.getuploader.com/cm3d2/download/19/cm3d2_19.zip) |
 後髪 | ウルフラフエッジ | 長さ80 |
 帽子 | 猫耳帽子 | **CM3D2の購入・インストール・互換設定が必要**。1.02倍とかに拡大するとよい |
-服装 | 久奈浜学院制服/w1 | [link (deleted)]() |
+服装 | 久奈浜学院制服/w1 | `aokana_001.zip` |
 
 ## 紅羽 (おきつねさま)
 
