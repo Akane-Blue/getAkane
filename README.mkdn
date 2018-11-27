@@ -48,6 +48,12 @@ category | parts | memo/url |
 * 公式ショップの [狐セット](https://cm3d2-shop.s-court.me/item.php?iid=188) (0円)
 * 後髪: 外ハネロング（[キャラクターパック vol.2 『母性的なお姉ちゃん』](http://kisskiss.tv/cm3d2/pp002/) 収録）（有料）
 
+## 和泉乃亜
+
+オダメでのメイド長です。Android版カスタムキャストでも呼べる…というかキャストで作ってそのままお迎えした。ので別途必要になるものはないはず。
+
+![サンプル](https://mstdn.maud.io/system/media_attachments/files/002/534/901/original/07e653f23f965fbf.jpeg)
+
 ## プリセットのダウンロード
 
 * [maid/presets - AkaneCloud](https://cloud.akane.blue/nextcloud/s/PDPhxnmcj5DG5CI?path=%2Fpresets)
