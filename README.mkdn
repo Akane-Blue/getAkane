@@ -21,7 +21,7 @@ category | mod | url |
 
 ### COM3D2
 
-![](https://mstdn.maud.io/system/media_attachments/files/001/963/172/original/b4077375165a7f09.jpeg)
+![](https://mstdn.maud.io/system/media_attachments/files/002/750/845/original/be0831da328eb46c.jpeg)
 
 ちょっぴり変更
 
@@ -36,7 +36,7 @@ category | parts | memo/url |
 目ハイライト | デフォルト | まあなんでもよいです |
 前髪 | M字バング | [link](http://ux.getuploader.com/cm3d2/download/19/cm3d2_19.zip) |
 後髪 | ウルフラフエッジ | 長さ80 |
-帽子 | 猫耳帽子 | **CM3D2の購入・インストール・互換設定が必要**。1.02倍とかに拡大するとよい |
+帽子 | 茜ちゃん猫帽子 | [link](https://github.com/pikepikeid/mod_neko_akane) / 1.02倍とかに拡大するとよい |
 服装 | 久奈浜学院制服/w1 | `aokana_001.zip` |
 
 ## 紅羽 (おきつねさま)
